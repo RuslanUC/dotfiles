@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=GNOME smartcard
+Exec=/usr/libexec/gsd-smartcard
+OnlyShowIn=GNOME;
+NoDisplay=true
+Hidden=true
+X-GNOME-Autostart-enabled=false

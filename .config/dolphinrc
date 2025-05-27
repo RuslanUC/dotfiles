@@ -1,0 +1,33 @@
+MenuBar=Disabled
+
+[CompactMode]
+PreviewSize=22
+
+[ContextMenu]
+ShowAddToPlaces=false
+ShowCopyToOtherSplitView=false
+ShowMoveToOtherSplitView=false
+ShowOpenInSplitView=false
+ShowOpenTerminal=false
+ShowViewMode=false
+
+[DetailsMode]
+ExpandableFolders=false
+PreviewSize=22
+
+[General]
+ConfirmClosingTerminalRunningProgram=false
+RememberOpenedTabs=false
+ShowFullPath=true
+ShowFullPathInTitlebar=true
+ShowStatusBar=false
+ShowToolTips=true
+Version=202
+ViewPropsTimestamp=2024,12,3,16,1,7.667
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[PreviewSettings]
+Plugins=avif,evince,jxl,gnome-kra-thumbnailer,mltpreview,totem,gnome-openraster-thumbnailer,gdk-pixbuf-thumbnailer,librsvg,webp-pixbuf,gdk-pixbuf-modules-extra-thumbnailer,gsf-office
