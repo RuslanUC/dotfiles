@@ -1,0 +1,42 @@
+[general]
+import = [
+    "~/.config/alacritty/themes/themes/moonfly.toml"
+]
+
+[window]
+dimensions = { columns = 104, lines = 24 }
+opacity = 0.825
+
+[font]
+size = 10.25
+#size = 16
+
+[mouse]
+bindings = [
+    { mouse = "Right", mods = "Control", action = "Paste" },
+]
+
+[[hints.enabled]]
+#binding = { key = "U", mods = "Control|Shift" }
+command = "xdg-open"
+hyperlinks = true
+mouse.enabled = true
+mouse.mods = "Control"
+post_processing = true
+persist = false
+regex = "(ipfs:|ipns:|magnet:|mailto:|gemini://|gopher://|https://|http://|news:|file:|git://|ssh:|ftp://)[^\u0000-\u001F\u007F-\u009F<>\"\\s{-}\\^⟨⟩‘]+"
+
+[keyboard]
+bindings = [
+    { key = "T", mods = "Control|Shift", action = "CreateNewWindow" },
+]
+
+#[debug]
+#render_timer = true
+#highlight_damage = true
+
+#[cursor]
+#smooth_motion = true
+#smooth_motion_factor = 0.75
+#smooth_motion_spring = 0.45
+

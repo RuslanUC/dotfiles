@@ -1,0 +1,3 @@
+[submodule "/home/ruslan/.config/alacritty/themes"]
+	path = /home/ruslan/.config/alacritty/themes
+	url = https://github.com/alacritty/alacritty-theme
