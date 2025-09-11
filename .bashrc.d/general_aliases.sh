@@ -13,3 +13,4 @@ alias archbtw=neofetch
 alias signapk=/home/ruslan/signapk.sh
 alias jadx="flatpak run com.github.skylot.jadx"
 alias dotfiles='git --git-dir="$HOME/.dotfiles" --work-tree="$HOME"'
+alias gi='touch .gitignore'
