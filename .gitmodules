@@ -1,3 +1,6 @@
 [submodule "/home/ruslan/.config/alacritty/themes"]
 	path = /home/ruslan/.config/alacritty/themes
 	url = https://github.com/alacritty/alacritty-theme
+[submodule ".config/nvim/lazy"]
+	path = .config/nvim/lazy
+	url = https://github.com/folke/lazy.nvim.git
