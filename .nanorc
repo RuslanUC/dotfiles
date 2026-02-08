@@ -1,0 +1,7 @@
+set tabsize 4
+set tabstospaces
+set linenumbers
+set autoindent
+
+include ~/javascript-nanorc/js.nanorc
+include ~/javascript-nanorc/ts.nanorc

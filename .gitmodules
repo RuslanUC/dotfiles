@@ -4,3 +4,6 @@
 [submodule ".config/nvim/lazy"]
 	path = .config/nvim/lazy
 	url = https://github.com/folke/lazy.nvim.git
+[submodule "javascript-nanorc"]
+	path = javascript-nanorc
+	url = https://github.com/nousantx/javascript-nanorc.git
