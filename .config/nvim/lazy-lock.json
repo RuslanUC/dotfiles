@@ -1,0 +1,5 @@
+{
+  "monokai-pro.nvim": { "branch": "master", "commit": "d8884d4473667c48bd17a68d08383d38839136a3" },
+  "nvim-lspconfig": { "branch": "master", "commit": "44acfe887d4056f704ccc4f17513ed41c9e2b2e6" },
+  "tokyonight.nvim": { "branch": "main", "commit": "a0ed9c97b24002394201c39755e10495d47b2d3f" }
+}
