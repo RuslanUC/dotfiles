@@ -1,0 +1,7 @@
+include "%L"
+
+<Multi_key> <d> <e> <a> <d>		: "💀"
+<Multi_key> <y> <e> <p>         : "\uE001"
+<Multi_key> <i>                 : "і"
+<Multi_key> <s>                 : "і"
+<Multi_key> <Cyrillic_yeru>     : "і"
