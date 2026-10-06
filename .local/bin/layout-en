@@ -1,0 +1,3 @@
+#!/bin/sh
+
+qdbus-qt6 org.kde.keyboard /Layouts org.kde.KeyboardLayouts.setLayout 0
