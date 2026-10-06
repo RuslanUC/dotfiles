@@ -9,6 +9,6 @@ if [ -f /etc/bashrc ]; then
 	. /etc/bashrc
 fi
 
-for rc in ~/.bashrc.d/*; do
+for rc in ~/.bashrc.d/*.sh; do
     . "$rc"
 done; unset rc
