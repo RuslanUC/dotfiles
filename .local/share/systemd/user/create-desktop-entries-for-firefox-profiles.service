@@ -1,0 +1,9 @@
+[Unit]
+Description=Generate desktop entries for firefox profiles
+
+[Service]
+Type=oneshot
+ExecStart="/home/ruslan/.local/bin/create-desktop-entries-for-firefox-profiles.py" --profiles-dir "/home/ruslan/.mozilla/firefox" --update
+
+[Install]
+WantedBy=default.target
