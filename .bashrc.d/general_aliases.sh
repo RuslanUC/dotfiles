@@ -18,3 +18,4 @@ alias gin='gi && nano .gitignore'
 alias giidea='echo .idea >> .gitignore'
 alias gipycache='echo __pycache__ >> .gitignore'
 alias tlid="python -c \"print(hex(__import__('zlib').crc32(' '.join(__import__('sys').argv[1:]).encode('utf8')))[2:])\""
+alias df-h="df -h"

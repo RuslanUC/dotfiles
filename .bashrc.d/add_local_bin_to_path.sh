@@ -1,3 +1,3 @@
-#!/bin/bash
+#!/bin/sh
 
-export PATH=$PATH:/home/ruslan/.local/bin
+export PATH="$PATH:$HOME/.local/bin"
